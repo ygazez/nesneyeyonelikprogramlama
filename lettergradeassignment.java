@@ -36,7 +36,7 @@ public class lettergradeassignment {
 			}
 		}
 		
-		for(int i=0;i<array_2.length;i++) {  //denemek için array_2 yi yazdırdım ödevde istenmiyo
+		for(int i=0;i<array_2.length;i++) { 
 			System.out.println(array_2[i]);
 		}
 		//ortalama hesabı
